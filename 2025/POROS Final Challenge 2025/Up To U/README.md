@@ -5,9 +5,9 @@
 Diberikan dua file, `main.py` dan `secret.txt`. main.py akan mengeknkripsi isi dari secret.txt 
 
 ## Penyelesaian
-Ketika membuka file `secret.txt`, yang muncul hanyalah karakter yang tidak bisa langsung dibaca.
-![image](https://github.com/user-attachments/assets/884f3743-9ec6-4934-b054-b53399a53b62)<br>
-Ketika menjalankan skrip `main.py`, teks dari `secret.txt` akan dienkripsi, tetapi tetap dalam bentuk karakter yyang belum bisa kita baca.<br>
+Ketika membuka file `secret.txt`, yang muncul hanyalah karakter yang tidak bisa langsung dibaca.<br><br>
+![image](https://github.com/user-attachments/assets/884f3743-9ec6-4934-b054-b53399a53b62)<br><br>
+Ketika menjalankan skrip `main.py`, teks dari `secret.txt` akan dienkripsi, tetapi tetap dalam bentuk karakter yyang belum bisa kita baca.<br><br>
 ![image](https://github.com/user-attachments/assets/9163d69e-7173-4d2a-a95b-68fff8f78906)<br>
 Oleh karena itu, kita harus memahami bagaimana cara skrip `main.py` bekerja. 
 ```
